@@ -1,0 +1,23 @@
+{
+  "name": "iaml-estatistica-mathjs",
+  "version": "1.0.0",
+  "description": "Projeto de Inteligência Artificial com Machine Learning com Javascript - Estatística com MathJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santunis/iaml-estatistica-mathjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santunis/iaml-estatistica-mathjs/issues"
+  },
+  "homepage": "https://github.com/santunis/iaml-estatistica-mathjs#readme",
+  "dependencies": {
+    "mathjs": "^7.1.0"
+  }
+}
